@@ -1,8 +1,8 @@
-version: 0.3.2
+version: 0.3.3
 files:
-  - url: Mewmodoro-Setup-0.3.2.exe
-    sha512: a9R6uI6rJXgSZ5e/Yn/jI1KFQzstt2z7J0J791ci6Guy2Q9xAlvHYEhmwgHW1YgoraMlL7DH32Mx8vwfDJs7ZA==
-    size: 152737083
-path: Mewmodoro-Setup-0.3.2.exe
-sha512: a9R6uI6rJXgSZ5e/Yn/jI1KFQzstt2z7J0J791ci6Guy2Q9xAlvHYEhmwgHW1YgoraMlL7DH32Mx8vwfDJs7ZA==
-releaseDate: '2026-02-23T00:50:05.207Z'
+  - url: Mewmodoro-Setup-0.3.3.exe
+    sha512: QpuMN/4pwWLgxXZh8e+mAaKfP1kP49nnH5373iNjuKtpCupWPd8Ue2kilDbIFaaIzqPvfgKqWLYJOL9OOTgXng==
+    size: 152737081
+path: Mewmodoro-Setup-0.3.3.exe
+sha512: QpuMN/4pwWLgxXZh8e+mAaKfP1kP49nnH5373iNjuKtpCupWPd8Ue2kilDbIFaaIzqPvfgKqWLYJOL9OOTgXng==
+releaseDate: '2026-02-23T02:59:44.598Z'
