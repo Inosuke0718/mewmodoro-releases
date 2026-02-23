@@ -1,4 +1,4 @@
-# Mewmodoro (ニャドローモ) 🐾
+# Mewmodoro (ニャモドーロ) 🐾
 
 [English](#english) | [日本語](#日本語)
 
@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
+  <strong>↓ Click to watch the Trailer!</strong><br>
   <a href="https://www.youtube.com/shorts/DcWPpsYoB2A">
-    <img src="https://img.youtube.com/vi/DcWPpsYoB2A/0.jpg" alt="Mewmodoro Trailer" width="240" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
+    <img src="https://img.youtube.com/vi/DcWPpsYoB2A/maxresdefault.jpg" alt="Mewmodoro Trailer" width="560" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);">
   </a>
 </p>
 
@@ -42,7 +43,7 @@ Mewmodoro is a Windows desktop application that features a cute cat mascot, **KI
 
 ## 日本語
 
-### Mewmodoro (ニャドローモ) とは？
+### Mewmodoro (ニャモドーロ) とは？
 
 Windowsデスクトップに常駐する猫のマスコット「**KIKI**」が、あなたの作業を見守るポモドーロタイマーです。単なるタイマーではなく、作業中のサボり（SNSや動画の閲覧）や離席を検知し、可愛い鳴き声とアクションであなたを呼び戻します。
 
