@@ -1,3 +1,6 @@
+*.exe
+*.exe.blockmap
+
 .icon-ico/
 win-unpacked/
 builder-debug.yml
